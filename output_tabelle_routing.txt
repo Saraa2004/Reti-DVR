@@ -1,0 +1,141 @@
+=== Iterazione 1 ===
+
+Tabella di routing per il nodo A
+Destinazione | Costo
+     A       |   0
+     B       |   2
+     C       |   2
+     D       |   1
+     E       |   1
+
+
+Tabella di routing per il nodo B
+Destinazione | Costo
+     A       |   2
+     B       |   0
+     C       |   3
+     D       |   2
+     E       |   3
+
+
+Tabella di routing per il nodo C
+Destinazione | Costo
+     A       |   2
+     B       |   3
+     C       |   0
+     D       |   1
+     E       |   4
+
+
+Tabella di routing per il nodo D
+Destinazione | Costo
+     A       |   1
+     B       |   2
+     C       |   1
+     D       |   0
+     E       |   2
+
+
+Tabella di routing per il nodo E
+Destinazione | Costo
+     A       |   1
+     B       |   3
+     C       |   3
+     D       |   2
+     E       |   0
+
+
+=== Iterazione 2 ===
+
+Tabella di routing per il nodo A
+Destinazione | Costo
+     A       |   0
+     B       |   2
+     C       |   2
+     D       |   1
+     E       |   1
+
+
+Tabella di routing per il nodo B
+Destinazione | Costo
+     A       |   2
+     B       |   0
+     C       |   3
+     D       |   2
+     E       |   3
+
+
+Tabella di routing per il nodo C
+Destinazione | Costo
+     A       |   2
+     B       |   3
+     C       |   0
+     D       |   1
+     E       |   3
+
+
+Tabella di routing per il nodo D
+Destinazione | Costo
+     A       |   1
+     B       |   2
+     C       |   1
+     D       |   0
+     E       |   2
+
+
+Tabella di routing per il nodo E
+Destinazione | Costo
+     A       |   1
+     B       |   3
+     C       |   3
+     D       |   2
+     E       |   0
+
+
+=== Iterazione 3 ===
+
+Tabella di routing per il nodo A
+Destinazione | Costo
+     A       |   0
+     B       |   2
+     C       |   2
+     D       |   1
+     E       |   1
+
+
+Tabella di routing per il nodo B
+Destinazione | Costo
+     A       |   2
+     B       |   0
+     C       |   3
+     D       |   2
+     E       |   3
+
+
+Tabella di routing per il nodo C
+Destinazione | Costo
+     A       |   2
+     B       |   3
+     C       |   0
+     D       |   1
+     E       |   3
+
+
+Tabella di routing per il nodo D
+Destinazione | Costo
+     A       |   1
+     B       |   2
+     C       |   1
+     D       |   0
+     E       |   2
+
+
+Tabella di routing per il nodo E
+Destinazione | Costo
+     A       |   1
+     B       |   3
+     C       |   3
+     D       |   2
+     E       |   0
+
+Convergenza dopo 3 iterazioni
